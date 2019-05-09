@@ -4,7 +4,7 @@
   "description": "It's a social network theme build in bootstrap",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gh-pages -d ../socio"
+    "deploy": "gh-pages -d build"
   },
   "author": "Arpit",
   "license": "ISC",
