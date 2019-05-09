@@ -1,0 +1,14 @@
+{
+  "name": "socio-theme",
+  "version": "1.0.0",
+  "description": "It's a social network theme build in bootstrap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ../socio"
+  },
+  "author": "Arpit",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
